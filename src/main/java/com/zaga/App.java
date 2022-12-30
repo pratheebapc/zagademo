@@ -17,5 +17,7 @@ public class App
  
         System.out.println("Outside if-else block");
         System.out.println("feature1");
+        System.out.println("feature2");
+        System.out.println("new line added feature3");
     }
 }
