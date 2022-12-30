@@ -19,5 +19,6 @@ public class App
         System.out.println("feature1");
         System.out.println("feature2");
         System.out.println("new line added feature3");
+        System.out.println("first line added feature3");
     }
 }
